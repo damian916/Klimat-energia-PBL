@@ -89,3 +89,5 @@ We propose a shift from "Active Destruction" to **"Deep Passive"** infrastructur
 ## ⚖️ License & Disclaimer
 
 This repository is provided for engineering and strategic planning purposes. The **STRAT-RESCUE** framework operates on the principle that **sovereignty is a function of physical autonomy.**
+
+[NOWOŚĆ 09.01.2026] Pobierz Załącznik nr 3: Matryca Destabilizacji Termodynamicznej – analiza wpływu infrastruktury PV i wiatrowej na ekstremalne powodzie.
